@@ -1,0 +1,5 @@
+outlet_id,edge,x_utm,y_utm,catchment_area_km2,share_of_study_area_pct,catchment_cells_on_area_edge_m,stream_length_km,mean_elevation_m,pond_storage_m3,area_on_wider_usgs_dem_km2,share_inside_study_area_pct
+1,north,588876.500,3935915.500,9.584,70.386,1382.000,37.045,421.632,314386.537,16.500,58.089
+2,east,589556.500,3934574.500,1.165,8.559,135.000,3.873,421.680,6627.380,1.164,100.000
+3,west,586557.500,3935846.500,0.541,3.970,20.000,1.981,421.702,0.000,,
+4,west,586557.500,3931520.500,0.330,2.425,668.000,0.904,427.613,15244.168,,

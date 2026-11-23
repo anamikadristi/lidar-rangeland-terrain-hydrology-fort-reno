@@ -1,0 +1,8 @@
+code,class_name,points,percent
+1,"Processed, but unclassified",1691552,4.9752
+2,Bare earth (ground),31530102,92.7371
+7,Low noise,97,0.0003
+9,Water,761086,2.2385
+17,Bridge deck,3165,0.0093
+18,High noise,8,0.0000
+20,Ignored ground (near a breakline),13448,0.0396

@@ -1,0 +1,11 @@
+metric,value
+Cells in the working grid,13617000.0000
+Cells with at least one ground point (%),96.5547
+"Cells filled from neighbours, small gaps (%)",0.8524
+"Cells filled by TIN interpolation, large gaps (%)",2.5929
+Cells with no first return before filling (%),1.0986
+"Cells with water-classified points, class 9 (%)",2.2738
+CHM cells replaced by the spike filter,1142.0000
+CHM cells above the 40 m limit,0.0000
+DTM minimum (m NAVD88),404.3698
+DTM maximum (m NAVD88),439.7160

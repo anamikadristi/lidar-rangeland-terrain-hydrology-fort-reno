@@ -1,0 +1,8 @@
+network,threshold_ha,stream_cells,stream_length_km,drainage_density_km_per_km2
+"Derived, 1 ha threshold",1.000,98887.000,116.097,8.526
+"Derived, 2 ha threshold",2.000,63234.000,74.175,5.447
+"Derived, 5 ha threshold",5.000,39269.000,46.028,3.380
+"Derived, 10 ha threshold",10.000,27418.000,32.086,2.356
+"Derived, 20 ha threshold",20.000,19550.000,22.895,1.681
+"Derived, 30 ha threshold",30.000,14792.000,17.369,1.276
+NHD flowlines (all types),,,19.707,1.447

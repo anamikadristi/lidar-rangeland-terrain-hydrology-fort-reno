@@ -1,0 +1,11 @@
+group,count,area_ha,volume_m3,max_depth_m,overlapping_nhd_waterbody
+All depressions on the unbreached DTM,285,134.50,1018284.48,4.52,27.00
+Kept as pond or basin,25,55.71,365346.97,2.49,21.00
+"Breached (dry, behind a barrier)",259,78.77,652911.07,4.52,6.00
+Not breached (no outlet within 300 m),1,0.02,26.44,0.23,0.00
+"Pond or basin, 100 to 500 m2",4,0.09,58.36,0.32,4.00
+"Pond or basin, 500 to 2000 m2",3,0.45,2266.29,1.01,2.00
+"Pond or basin, 2000 to 10000 m2",8,4.93,32267.02,2.49,6.00
+"Pond or basin, above 10000 m2",10,50.24,330755.31,2.21,9.00
+Depressions left on the breached DTM (used for routing),36,58.49,370471.51,2.49,31.00
+"All filled cells on the unbreached DTM, including small pits",420498,233.21,1036125.69,4.52,

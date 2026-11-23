@@ -1,0 +1,16 @@
+metric,value
+TWI cell size (m),3.000
+TWI minimum,1.514
+TWI 10th percentile,4.972
+TWI median,6.854
+TWI 90th percentile,10.068
+TWI 99th percentile,13.770
+TWI maximum,20.920
+Area with TWI of 8 or more (%),29.385
+Area with TWI of 8 or more (ha),400.132
+Area with TWI of 10 or more (%),10.356
+Area with TWI of 10 or more (ha),141.019
+Area with TWI of 12 or more (%),3.418
+Area with TWI of 12 or more (ha),46.538
+Area with TWI of 14 or more (%),0.881
+Area with TWI of 14 or more (ha),11.994

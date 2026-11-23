@@ -1,0 +1,22 @@
+metric,value
+Study area (km2),13.617
+Stream threshold (ha),5.000
+Derived stream length (km),46.028
+Derived drainage density (km per km2),3.380
+Edge outlets with 25 ha or more,4.000
+Area draining to the largest outlet (km2),9.584
+Area draining to the largest outlet (% of study area),70.386
+Area in delineated catchments (% of study area),85.340
+Depressions on the unbreached DTM (count),285.000
+Apparent storage of all depressions on the unbreached DTM (m3),1018284.475
+Ponds and basins kept (count),25.000
+Pond and basin area at spill level (ha),55.712
+Pond and basin storage between survey surface and spill level (m3),365346.971
+Pond and basin storage as depth over the study area (mm),26.830
+Dry depressions breached in pass 1 (count),259.000
+"Apparent storage removed by breaching, pass 1 (m3)",652911.069
+Breaches in all passes (count),387.000
+Median breach length (m),24.971
+Longest breach (m),293.463
+Deepest breach cut (m),5.886
+Dry depressions that could not be breached (count),1.000

@@ -1,0 +1,9 @@
+file,content,units,cell_size_m,resampling_from_1m,dtype,size_mb,crs
+outputs/rasters/dtm_2m_cm.tif,Digital terrain model (bare earth). Elevation in m = value * 0.01 + offset,m NAVD88 (stored as cm),2,mean,uint16,5.08,EPSG:26914
+outputs/rasters/chm_3m_max_cm.tif,"Canopy height model (DSM minus DTM, filtered). Height in m = value * 0.01",m above ground (stored as cm),3,maximum,uint16,1.18,EPSG:26914
+outputs/rasters/woody_cover_gt2m_10m_pct.tif,Woody cover above 2 m (filtered),percent of cell,10,mean,uint8,0.01,EPSG:26914
+outputs/rasters/slope_3m_decideg.tif,Slope (Horn method on the 1 m DTM). Degrees = value * 0.1,degrees (stored as tenths),3,mean,uint16,1.64,EPSG:26914
+outputs/rasters/dtm_minus_usgs_dem_3m_cm.tif,My DTM minus the USGS 3DEP 1 m DEM. Difference in m = value * 0.01,m (stored as cm),3,mean,int16,0.41,EPSG:26914
+outputs/rasters/flow_accumulation_3m_m2.tif,D8 contributing area on the breached and filled 1 m DTM,m2,3,maximum,uint32,3.14,EPSG:26914
+outputs/rasters/twi_3m_x10.tif,"Topographic wetness index, D-infinity, computed at 3 m. TWI = value * 0.1",dimensionless (stored x10),3,computed at 3 m,int16,1.87,EPSG:26914
+outputs/rasters/pond_depth_to_spill_3m_cm.tif,Depth below spill level inside the kept ponds and basins. Depth in m = value * 0.01,m (stored as cm),3,maximum,uint16,0.09,EPSG:26914

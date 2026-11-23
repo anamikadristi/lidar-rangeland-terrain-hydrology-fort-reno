@@ -1,0 +1,8 @@
+group,count,area_ha,matched_by_depression,matched_pct,any_overlap
+All NHD waterbodies in the study area,34,46.09,28.00,82.35,29
+NHD lake or pond,34,46.09,28.00,82.35,29
+"NHD waterbodies of 1,000 m2 or more",25,45.42,21.00,84.00,22
+"NHD waterbodies under 1,000 m2",9,0.67,7.00,77.78,7
+Depressions of 100 m2 or more,285,134.50,,,27
+Depressions of 500 m2 or more,101,130.57,,,22
+"Depressions of 2,000 m2 or more",49,125.30,,,20

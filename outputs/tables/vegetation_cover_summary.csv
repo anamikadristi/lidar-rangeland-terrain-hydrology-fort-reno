@@ -1,0 +1,17 @@
+cover_class,area_ha,percent_of_area,value
+"Surface cover above 0.5 m, all objects (CHM, unfiltered)",53.179,3.905,
+"Surface cover above 1 m, all objects (CHM, unfiltered)",50.928,3.740,
+"Surface cover above 2 m, all objects (CHM, unfiltered)",40.366,2.964,
+"Surface cover above 5 m, all objects (CHM, unfiltered)",23.341,1.714,
+"Surface cover above 10 m, all objects (CHM, unfiltered)",5.726,0.421,
+"Features above 2 m and under 2 m wide, removed (wires, fences, poles)",3.539,0.260,
+"Building-like patches above 2 m, removed",2.773,0.204,
+Woody cover above 2 m (filtered),34.054,2.501,
+Woody cover above 5 m (filtered),21.320,1.566,
+Woody cover above 10 m (filtered),5.611,0.412,
+"Woody canopy height, mean (m)",,,6.676
+"Woody canopy height, median (m)",,,6.143
+"Woody canopy height, 95th percentile (m)",,,12.788
+"Woody canopy height, maximum (m)",,,26.048
+Building-like patches (count),,,57.000
+Woody patches (count),,,2233.000

@@ -1,0 +1,35 @@
+permanent_identifier,gnis_name,ftype_name,fcode,area_in_study_m2,touches_edge,depression_cover_frac,max_depression_depth_m,detected
+106315826,Lake Rolla,Lake or pond,39004,223834.384,False,0.988,0.876,True
+106315764,,Lake or pond,39004,53364.354,False,0.990,0.997,True
+106315320,,Lake or pond,39004,46994.167,False,0.991,2.969,True
+106315882,,Lake or pond,39004,17640.773,True,0.828,1.794,True
+106315568,,Lake or pond,39004,14116.082,False,0.970,0.873,True
+106315618,,Lake or pond,39004,13565.504,False,0.725,1.000,True
+106315864,,Lake or pond,39004,11913.022,False,0.989,1.770,True
+106315434,,Lake or pond,39004,8702.786,False,0.875,1.067,True
+106315554,,Lake or pond,39004,7951.715,False,0.848,0.320,True
+106315482,,Lake or pond,39004,7628.795,False,0.595,1.676,True
+106315492,,Lake or pond,39004,6250.641,False,0.983,2.213,True
+106315230,,Lake or pond,39001,5811.708,False,0.066,0.317,False
+106315650,,Lake or pond,39004,4366.228,False,0.000,0.000,False
+106315670,,Lake or pond,39004,4359.302,False,0.912,0.939,True
+106315438,,Lake or pond,39004,4345.560,False,0.523,0.833,True
+106315742,,Lake or pond,39004,4188.735,False,1.000,2.488,True
+106315784,,Lake or pond,39004,4139.448,False,1.000,1.186,True
+106315484,,Lake or pond,39004,3440.679,False,1.000,1.020,True
+106315740,,Lake or pond,39004,2267.444,False,0.989,1.495,True
+106315686,,Lake or pond,39004,1859.212,False,0.000,0.000,False
+106315402,,Lake or pond,39004,1791.157,False,0.941,2.207,True
+106315266,,Lake or pond,39001,1684.910,False,0.988,2.656,True
+106315466,,Lake or pond,39004,1472.299,False,0.915,1.009,True
+106315738,,Lake or pond,39004,1458.997,False,1.000,0.247,True
+106315832,,Lake or pond,39004,1005.219,False,0.000,0.000,False
+106315754,,Lake or pond,39001,976.726,False,0.000,0.000,False
+106315620,,Lake or pond,39004,916.367,False,0.954,0.919,True
+106315782,,Lake or pond,39004,910.312,False,0.885,1.012,True
+106315858,,Lake or pond,39004,861.197,False,1.000,3.574,True
+106315852,,Lake or pond,39001,765.835,False,0.953,1.026,True
+106315254,,Lake or pond,39004,735.734,False,1.000,2.932,True
+106315680,,Lake or pond,39004,525.551,False,1.000,0.728,True
+106315392,,Lake or pond,39004,523.385,False,0.978,1.501,True
+106315872,,Lake or pond,39004,500.524,False,0.000,0.000,False

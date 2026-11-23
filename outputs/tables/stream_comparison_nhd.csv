@@ -1,0 +1,8 @@
+subset,n_samples,length_km,median_m,mean_m,p90_m,within_10m_pct,within_20m_pct,within_50m_pct
+NHD flowlines to derived streams: all NHD,3941,19.70,9.00,28.86,89.81,53.64,68.99,81.93
+"NHD flowlines to derived streams: Stream, intermittent",2434,12.17,6.71,23.62,71.82,61.67,75.64,85.37
+"NHD flowlines to derived streams: Stream, perennial",19,0.10,53.04,72.08,145.00,0.00,10.53,47.37
+NHD flowlines to derived streams: Artificial path (through waterbody),1488,7.44,14.00,36.88,119.52,41.20,58.87,76.75
+NHD flowlines to derived streams: NHD points where my DTM has 5 ha or more within 10 m,2324,11.62,4.24,4.93,10.00,90.96,100.00,100.00
+NHD flowlines to derived streams: NHD points where my DTM has under 5 ha within 10 m,1617,8.09,41.01,63.25,147.03,0.00,24.43,55.97
+Derived stream cells to NHD flowlines: all derived,39269,,74.33,140.46,375.23,25.96,34.86,44.65

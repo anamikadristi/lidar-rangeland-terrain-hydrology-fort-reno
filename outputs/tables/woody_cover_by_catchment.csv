@@ -1,0 +1,5 @@
+outlet_id,edge,catchment_area_km2,woody_cover_pct,woody_cover_within_25m_of_stream_pct,pond_storage_m3,pond_storage_mm
+1,north,9.58,3.28,10.23,314386.50,32.80
+2,east,1.17,0.48,2.68,6627.38,5.69
+3,west,0.54,0.07,0.24,0.00,0.00
+4,west,0.33,0.32,0.02,15244.17,46.17

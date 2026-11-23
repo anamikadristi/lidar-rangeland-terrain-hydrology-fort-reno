@@ -1,0 +1,10 @@
+# large raw downloads and full-resolution working rasters (recreated by the scripts)
+data/raw/
+data/work/
+# Python and OS clutter
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+*.part
+*.aux.xml
